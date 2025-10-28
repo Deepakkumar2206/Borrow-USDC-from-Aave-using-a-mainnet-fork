@@ -60,7 +60,7 @@ mainnet = "${MAINNET_RPC_URL}"
 
 - Forks Ethereum mainnet.
 - Funds contract with ETH.
-- Wraps ETH → WETH, deposits to Aave v3 pool.
+- Wraps ETH - WETH, deposits to Aave v3 pool.
 - Borrows 100 USDC.
 - Asserts borrow success & health factor > 1.
 - Includes impersonation demo.
